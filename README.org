@@ -1,0 +1,4 @@
+*bold*
+/italics/
+/*bold and italics*/
+/*bold and italics/*
