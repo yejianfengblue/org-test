@@ -1,4 +1,15 @@
 *bold*
+
 /italics/
+
 /*bold and italics*/
+
 */bold and italics/*
+
+_underlined_
+
+=verbatim=
+
+~code~
+
++strike-through+
